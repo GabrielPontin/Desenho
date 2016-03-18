@@ -10,7 +10,7 @@ public class Desenhar {
 		List<Desenho> lista = new ArrayList<>();
 
 		lista.add(new ExA());
-		// lista.add(new ExB());
+		lista.add(new ExB());
 		// lista.add(new ExC());
 		// lista.add(new ExD());
 		// lista.add(new ExE());

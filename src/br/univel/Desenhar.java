@@ -20,7 +20,7 @@ public class Desenhar {
 		lista.add(new ExI());
 		lista.add(new ExJ());
 		lista.add(new ExM());
-		// lista.add(new ExN());
+		lista.add(new ExN());
 
 		for (Desenho d : lista) {
 			d.desenhar();

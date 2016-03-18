@@ -19,7 +19,7 @@ public class Desenhar {
 		lista.add(new ExH());
 		lista.add(new ExI());
 		lista.add(new ExJ());
-		// lista.add(new ExM());
+		lista.add(new ExM());
 		// lista.add(new ExN());
 
 		for (Desenho d : lista) {

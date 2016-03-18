@@ -16,7 +16,7 @@ public class Desenhar {
 		lista.add(new ExE());
 		lista.add(new ExF());
 		lista.add(new ExG());
-		// lista.add(new ExH());
+		lista.add(new ExH());
 		// lista.add(new ExI());
 		// lista.add(new ExJ());
 		// lista.add(new ExM());
